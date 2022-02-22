@@ -11,13 +11,12 @@ body{
     
 }
 .Introduction{
-    text-align: right;
+    text-align: left;
     font-size: 100%;
     font-style: italic;
     border-radius: 50px;
+    color: yellowgreen;
     
 }
 
-.image{
-    
-}
+.image
