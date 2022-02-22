@@ -14,9 +14,13 @@ body{
     text-align: left;
     font-size: 100%;
     font-style: italic;
-    border-radius: 50px;
-    color: yellowgreen;
+    color: thistle;
     
 }
+.projects{
+    border: 1px solid burlywood;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 100px;
+}
 
-.image
