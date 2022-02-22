@@ -2,3 +2,22 @@ body{
     padding: 0%;
     margin: 0%;
 }
+
+.Portfolio{
+    background-image: url(./background\ .jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200vh;
+    
+}
+.Introduction{
+    text-align: right;
+    font-size: 100%;
+    font-style: italic;
+    border-radius: 50px;
+    
+}
+
+.image{
+    
+}
