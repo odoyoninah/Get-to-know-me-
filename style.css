@@ -4,11 +4,11 @@ body{
 }
 
 .Portfolio{
-    background-image: url(./background\ .jpg);
+    /* background-image: url(./background\ .jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 250vh;
-    width: 100vw;
+    width: 100vw; */
 
     
 }
@@ -16,7 +16,7 @@ body{
     text-align: left;
     font-size: 100%;
     font-style: italic;
-    color: whitesmoke;
+    color: rgb(189, 10, 10);
     
 }
 .me{
@@ -36,7 +36,7 @@ body{
 a:hover{
     opacity: 0.5;
     font-size: 19px;
-    color: blue;
+    color: rgb(189, 10, 10);
 }
 /* .image{
     float: right;
@@ -62,3 +62,23 @@ a:hover{
         background-color: grey;
         text-align: center;   
     }
+.Jobexperience{
+    border-radius: 100%;
+    padding: 30px;
+    background-color: grey;
+    text-align: center;  
+}
+
+.Passion{
+    border-radius: 100%;
+    padding: 30px;
+    background-color: grey;
+    text-align: center;   
+}
+.Hobbiesandskills{
+    border-radius: 100%;
+    padding: 30px;
+    background-color: grey;
+    text-align: center;
+}
+
