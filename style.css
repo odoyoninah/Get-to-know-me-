@@ -4,7 +4,7 @@ body{
 }
 
 .Portfolio{
-    background-image: url(./port.jpeg);
+    background-image: url(./background\ .jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 250vh;
@@ -16,7 +16,7 @@ body{
     text-align: left;
     font-size: 100%;
     font-style: italic;
-    color: black;
+    color: whitesmoke;
     
 }
 .me{
@@ -24,7 +24,27 @@ body{
     flex-direction: row;
     justify-content: space-evenly;
     cursor: pointer;
-    background-color: gray;
+    background-color: white;
 }
+.me li{
+    display: inline-block;
+    list-style: none;
+    padding: 0px 60px;
+    font: bolder;
+    
+}
+a:hover{
+    opacity: 0.5;
+    font-size: 19px;
+    color: blue;
+}
+/* .image{
+    float: right;
+} */
 
-
+/* .About me{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    cursor: pointer;
+    background-color: white;} */
