@@ -48,3 +48,10 @@ a:hover{
     justify-content: space-evenly;
     cursor: pointer;
     background-color: white;} */
+
+    .projects{
+        border-radius: 100%;
+        padding: 30px;
+        background-color: grey;
+        text-align: center;
+    }
