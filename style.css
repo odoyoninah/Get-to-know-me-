@@ -4,18 +4,27 @@ body{
 }
 
 .Portfolio{
-    background-image: url(./background\ .jpg);
+    background-image: url(./port.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 200vh;
+    height: 250vh;
+    width: 100vw;
+
     
 }
 .Introduction{
     text-align: left;
     font-size: 100%;
     font-style: italic;
-    color: thistle;
+    color: black;
     
+}
+.me{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    cursor: pointer;
+    background-color: gray;
 }
 
 
