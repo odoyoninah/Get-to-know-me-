@@ -84,3 +84,9 @@ a:hover{
     text-align: center;
 }
 
+.footer{
+    border-radius: 100%;
+    padding: 30px;
+    background-color: grey;
+    text-align: center; 
+}
